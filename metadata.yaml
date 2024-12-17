@@ -1,0 +1,41 @@
+_repo: L-Auvergne_74800
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Montader
+    alias: Montader, Alfred
+    birthdate: 1855
+    gutenberg_agent_id: '57653'
+    url: http://www.gutenberg.org/2009/agents/57653
+creator:
+  author:
+    agent_name: Ajalbert, Jean
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '57329'
+    url: http://www.gutenberg.org/2009/agents/57329
+    wikipedia: https://fr.wikipedia.org/wiki/Jean_Ajalbert
+description: ''
+gutenberg_issued: '2024-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74800'
+language: fr
+pgterms:marc904: https://access.bl.uk/item/viewer/ark:/81055/vdc_00000000A8B4
+pgterms:marc905: 20230702065417ajalbert
+pgterms:marc906: '1896'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Linda Cantoni, Hans Pieterse and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from a file downloaded
+  from the British Library)
+publication_note: '  $aParis :$bAncienne maison Quantin Librairies-imprimeries réunies,
+  $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Auvergne (France) -- Description and travel'
+- !lcc 'DC'
+- GITenberg
+title: L'Auvergne
+url: http://www.gutenberg.org/ebooks/74800
