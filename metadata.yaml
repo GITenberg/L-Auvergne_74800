@@ -7,6 +7,9 @@ contributor:
     birthdate: 1855
     gutenberg_agent_id: '57653'
     url: http://www.gutenberg.org/2009/agents/57653
+covers:
+- cover_type: archival
+  image_path: 74800-h/images/cover.jpg
 creator:
   author:
     agent_name: Ajalbert, Jean
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57329
     wikipedia: https://fr.wikipedia.org/wiki/Jean_Ajalbert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74800#L-Auvergne
 gutenberg_issued: '2024-11-26'
 gutenberg_type: Text
 identifiers:
